@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Execução automática de scripts,apenas aguarde..."
+echo "Configurando ambiente para rodar rails,apenas aguarde..."
 #atualiza o ambiente...
 echo "Atualizando ambiente..."
 sudo apt-get update
