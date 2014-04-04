@@ -1,0 +1,1 @@
+Script para instalação das dependências para rodar ruby no vagrant
