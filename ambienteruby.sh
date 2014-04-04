@@ -12,7 +12,7 @@ clear
 
 #instalando o rvm...
 echo "Instalando rvm..."
-\curl -L https://get.rvm.io | bash -s stable &&
+\curl -L https://get.rvm.io | bash -s stable
 clear
 
 #inicializando rvm...
