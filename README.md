@@ -11,6 +11,6 @@ Criando VirtualHost
 		AllowOverride All
 		Order allow,deny
 		Allow from all
-	<Directory>
+	</Directory>
 
 </VirtualHost>
